@@ -5,7 +5,7 @@
 Clone the repository to your local machine.  Ensure the directory containing the clone does not contain any spaces:
 
 ```
-git clone https://github.com/WildernessLabs/Netduino_SDK.git
+git clone https://github.com/AkatorMr/Netduino_SDK.git
 ```
 
 For the following discussion it is assumed that the repository is cloned into the directory:
